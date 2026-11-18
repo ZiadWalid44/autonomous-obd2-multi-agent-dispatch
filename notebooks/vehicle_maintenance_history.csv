@@ -1,0 +1,8 @@
+Component,Category,Last_Changed_Date,Last_Changed_Odo_km,Next_Due_Odo_km,Next_Due_Date,KM_Remaining,Wear_Percentage,Est_Replacement_Cost_EGP,Status,Workshop_Note
+"Engine Oil & Filter (10,000 KM Synthetic 5W-40)",Fluids & Lubrication,2026-05-10,139200,149200,2026-11-06,700,93.0%,2150,OVERDUE - CHANGE IMMEDIATELY,Shell Helix Ultra 5W-40 + OEM Oil Filter. Only 700 km left!
+Timing Belt & Tensioner Kit (سير الكاتينة والبلية),Engine Mechanical,2024-03-15,92000,152000,2027-02-28,3500,94.2%,3400,DUE SOON (Upcoming),Critical: High risk of belt snap after 60k km.
+Rear Brake Pads (تيل فرامل خلفي),Braking System,2026-09-20,146800,181800,2028-09-09,33300,4.9%,1100,HEALTHY (Good Condition),Replaced recently; pads at 95% thickness.
+Front Brake Pads & Disc Skimming (تيل أمامي),Braking System,2025-04-12,118000,148000,2026-12-03,-500,100.0%,1650,OVERDUE - CHANGE IMMEDIATELY,Squeaking noise under braking; needs immediate replacement.
+Automatic Transmission Fluid (زيت الفتيس),Transmission,2025-01-18,112000,152000,2027-01-08,3500,91.2%,2800,DUE SOON (Upcoming),"DEXRON-VI / ATF SP-III due within 3,500 km."
+Spark Plugs Set (طقم بوجيهات),Ignition System,2025-07-05,122000,147000,2026-12-27,-1500,100.0%,1400,OVERDUE - CHANGE IMMEDIATELY,Direct correlation with P0300 Misfire! Exceeded 25k km lifespan.
+12V Lead-Acid Battery (البطارية 70 أمبير),Electrical System,2025-02-01,115000,165000,2027-01-22,16500,67.0%,4200,HEALTHY (Good Condition),Warranty expires Feb 2027.
